@@ -68,6 +68,12 @@
   
 #
   
+<div align="center">
+  <img alt="Snake Game" title="Snake Game" src="https://github.com/luizhc/luizhc/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+#
+  
 ### 📫 How to reach me:
 
 <div align="center">
