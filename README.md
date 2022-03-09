@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Software developer, focusing in front-end;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Currently working on <a href="https://mjvinnovation.com">MJV Innovation</a>, multinational company of innovation and technology;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning more about Unit Testing and End-to-End Testing;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning more about Git Actions, Unit / E2E Testing, Monorepo and much more;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🤝 Collaborating on <a href="https://github.com/patrickgdl/akademic">Akademic</a> and other amazing projects.
 
 #
