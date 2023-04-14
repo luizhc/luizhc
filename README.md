@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Software developer, focusing in front-end;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Working on <a href="https://www.itau.com.br">Itaú</a>, the largest bank in Latin America;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning more about Git Actions, Unit / E2E Testing, Monorepo and much more;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning more about AWS, accessibility and much more;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🤝 Collaborating on <a href="https://github.com/patrickgdl/akademic">Akademic</a> and other amazing projects.
 
 #
@@ -73,7 +73,7 @@
 </div>
 
 #
-  
+
 ### 📫 How to reach me:
 
 <div align="center">
