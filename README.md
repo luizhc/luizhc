@@ -74,7 +74,7 @@
 #
   
 <div align="center">
-  <img alt="Snake Game" title="Snake Game" src="https://github.com/luizhc/luizhc/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" title="Snake Animation" src="https://github.com/luizhc/luizhc/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 #
