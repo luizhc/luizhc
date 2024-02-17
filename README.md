@@ -1,6 +1,6 @@
 ## Hi there, welcome! 👋🏻
 
-### 🏡 About me:
+### 🏡 About me
 
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Software developer, focusing in front-end;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Working on <a href="https://www.itau.com.br">Itaú</a>, the largest bank in Latin America;<br>
@@ -9,7 +9,7 @@
 
 #
 
-### 💡 Soft skills:
+### 💡 Soft skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ A distinguished professional, I don't like stay on comfort zone, I'm always searching the excelence; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;💥 Search resolution of the problems of definitive form; <br>
@@ -22,7 +22,7 @@
 
 #
 
-### 🚀 Hard skills:
+### 🚀 Hard skills
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
@@ -79,10 +79,10 @@
 
 #
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 <div align="center">
+  <a href="https://linkedin.com/in/luizhc" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luizhcorreia" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizhenriquecorreia1997@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/luizhc" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
